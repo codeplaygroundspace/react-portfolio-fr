@@ -1,0 +1,84 @@
+{
+  "name": "John Lemoine",
+  "position": "Lead Developer",
+  "verified": true,
+  "description": "Hello, my name is John and I create stunning web applications.",
+  "city": "London, UK",
+  "social": [
+    {
+      "icon": "Github",
+      "url": ""
+    },
+    {
+      "icon": "Twitter",
+      "url": ""
+    },
+    {
+      "icon": "LinkedIn",
+      "url": ""
+    },
+    {
+      "icon": "Youtube",
+      "url": ""
+    },
+    {
+      "icon": "Instagram",
+      "url": ""
+    },
+    {
+      "icon": "Tiktok",
+      "url": ""
+    }
+  ],
+  "projects": [
+    {
+      "date": "Jan 2023",
+      "title": "Lemoine's Coffee",
+      "url": "https://google.com"
+    },
+    {
+      "date": "Dec 2021",
+      "title": "MyAwesomeApp.com",
+      "url": "https://google.com"
+    },
+    {
+      "date": "Sept 2019",
+      "title": "Discover Quebec",
+      "url": "https://google.com"
+    }
+  ],
+  "experience": [
+    {
+      "date": "2022 - Now",
+      "title": "Lead Developer",
+      "note": "Google",
+      "url": null
+    },
+    {
+      "date": "2020 - 2022",
+      "title": "Software Engineer",
+      "note": "LinkedIn",
+      "url": null
+    },
+    {
+      "date": "2019 - 2020",
+      "title": "Junior Software Engineer",
+      "note": "Airbnb",
+      "url": null
+    }
+  ],
+  "links": [
+    {
+      "title": "Building a Full-Stack Web App with Next.js 14 & @Supabase — 1080p [4 hours] 2023",
+      "url": "https://www.youtube.com/watch?v=HNXKB2Yn5O0"
+    },
+    {
+      "title": "Building a Front-End Web App with Next.js 14 TailwindLabs — 4K [2 hours] 2024",
+      "url": "https://www.youtube.com/watch?v=j2iWwaPW5OE"
+    },
+    {
+      "title": "API Routes with Next.js 14",
+      "url": "https://www.youtube.com/watch?v=gEB3ckYeZF4"
+    }
+  ]
+}
